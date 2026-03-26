@@ -1,6 +1,6 @@
 # Liziwe Mkosana - Professional Accounting & Finance Portfolio
 
-![Portfolio Website Preview](screenshot_f011.png)
+![Portfolio Website Preview](Portfolio.png)
 
 A professional, fully-responsive portfolio website for Liziwe Mkosana, an experienced accounting specialist and financial manager. This project showcases 10+ years of expertise in accounts payable operations, bookkeeping, financial management, and audit compliance with modern design elements, interactive animations, and optimized user experience.
 
