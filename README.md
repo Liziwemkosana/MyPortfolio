@@ -243,7 +243,7 @@ For any questions, professional inquiries, or partnership opportunities, please 
 - Email: mkosanaliziwe@gmail.com
 - Phone: +27632973710
 - Location: Johannesburg, Gauteng, South Africa
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [Profile](https://www.linkedin.com/in/liziwe-mkosana-9b0a4266/)
 
 ---
 
